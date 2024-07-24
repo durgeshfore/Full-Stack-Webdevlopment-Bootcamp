@@ -1,4 +1,4 @@
-# Full-Stack-Webdevlopment-Bootcamp
+# Full-Stack-Web-Devlopment-Bootcamp
 ---
 
 ## Web Development Journey: The Complete 2024 Web Development Bootcamp
